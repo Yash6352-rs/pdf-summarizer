@@ -1,6 +1,6 @@
 from flask import Flask, render_template, request
 import os
-from summarizer import summarize_text  # make sure this is correctly imported
+from summarizer import summarize_text
 from werkzeug.utils import secure_filename
 from PyPDF2 import PdfReader
 
