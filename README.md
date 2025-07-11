@@ -22,8 +22,6 @@ It’s perfect for students, professionals, and researchers who want to extract 
 ![1111](https://github.com/user-attachments/assets/d69d6d8a-55c2-43bf-b99d-ae2cc7cc05b4)
 
 
-
-
 ---
 
 
@@ -43,7 +41,7 @@ It’s perfect for students, professionals, and researchers who want to extract 
 ---
 
 
-## ⚙Setup Instructions
+## Setup Instructions
 
 ### 1. Clone the Repository
 
@@ -65,9 +63,13 @@ pip install Flask PyPDF2 python-dotenv google-generativeai
 Create a .env file in the root directory:
 -GEMINI_API_KEY=your_google_gemini_api_key
 
-## Running the App
+### 5. Running the App
 
 python app.py
+
+Then open your browser at:
+- http://127.0.0.1:5000
+
 
 
 ---
