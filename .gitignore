@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+.venv/
+env/
+venv/
+ENV/
+*.env
+
+# Mac and system files
+.DS_Store
+Thumbs.db
+
+# Uploads (if user-uploaded files should not be committed)
+uploads/*
+
+# Logs
+*.log
+
+# VS Code settings
+.vscode/
+
+# PyInstaller
+*.spec
+dist/
+build/
+
+# Flask cache files
+instance/
+*.db
+*.sqlite3
+
+# Coverage reports
+htmlcov/
+coverage.xml
+*.cover
+*.py,cover
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Pytest cache
+.pytest_cache/
+
+# MyPy cache
+.mypy_cache/
+
+# Static and media files (optional - only if they’re user-generated)
+# static/uploads/
