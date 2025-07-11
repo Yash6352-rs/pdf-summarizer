@@ -19,6 +19,9 @@ It’s perfect for students, professionals, and researchers who want to extract 
 ---
 
 ## Screenshots
+![1111](https://github.com/user-attachments/assets/d69d6d8a-55c2-43bf-b99d-ae2cc7cc05b4)
+
+
 
 
 ---
