@@ -77,4 +77,9 @@ python app.py
 3. Wait a few seconds (spinner shows progress)
 4. View your summary
 5. Click “Download Summary” to save it as .txt
+
+---
+
+“Read less, understand more — with PDF Summarizer.”
+
    
