@@ -6,6 +6,7 @@ It’s perfect for students, professionals, and researchers who want to extract 
 
 ---
 
+
 ## Features
 
 - Upload a PDF (any length)  
@@ -22,20 +23,22 @@ It’s perfect for students, professionals, and researchers who want to extract 
 
 ---
 
+
 ## Project Structure
 
-- app.py # Flask app setup and routes
-- summarizer.py # Handles text extraction and Gemini summarization
+- app.py ( Flask app setup and routes )
+- summarizer.py ( Handles text extraction and Gemini summarization )
 - templates/
-  - index.html # HTML front-end
+  - index.html ( HTML front-end )
 - static/
-  - style.css # CSS styling
-- uploads/ # Temporary storage for uploaded PDFs
-- .env # Your API key
-- .gitignore # Files/folders to ignore in Git
+  - style.css ( CSS styling )
+- uploads/ ( Temporary storage for uploaded PDFs )
+- .env ( Your API key )
+- .gitignore ( Files/folders to ignore in Git )
 - README.md
 
 ---
+
 
 ## ⚙Setup Instructions
 
@@ -63,7 +66,9 @@ Create a .env file in the root directory:
 
 python app.py
 
+
 ---
+
 
 ## Usage Instructions
 
@@ -72,3 +77,4 @@ python app.py
 3. Wait a few seconds (spinner shows progress)
 4. View your summary
 5. Click “Download Summary” to save it as .txt
+   
