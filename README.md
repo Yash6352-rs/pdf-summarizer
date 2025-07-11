@@ -24,16 +24,16 @@ It’s perfect for students, professionals, and researchers who want to extract 
 
 ## Project Structure
 
-app.py # Flask app setup and routes
-summarizer.py # Handles text extraction and Gemini summarization
-templates/
-- index.html # HTML front-end
-static/
-- style.css # CSS styling
-uploads/ # Temporary storage for uploaded PDFs
-.env # Your API key
-.gitignore # Files/folders to ignore in Git
-README.md
+- app.py # Flask app setup and routes
+- summarizer.py # Handles text extraction and Gemini summarization
+- templates/
+  - index.html # HTML front-end
+- static/
+  - style.css # CSS styling
+- uploads/ # Temporary storage for uploaded PDFs
+- .env # Your API key
+- .gitignore # Files/folders to ignore in Git
+- README.md
 
 ---
 
